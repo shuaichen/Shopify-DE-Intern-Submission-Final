@@ -1,7 +1,7 @@
 # Shopify Data Engineer Intern Challenge
 ### By Shuaichen Wu
 
-This is my submission for the Data Engineer intern challenge. The site can be accessed [here]((https://shuaichen.github.io/data-intern-challenge-test1/).
+This is my submission for the Data Engineer intern challenge. The site can be accessed [here](https://shuaichen.github.io/Shopify-DE-Intern-Submission-Final/).
 
 This was built with the following frameworks:
 * GitHub Pages for its ease of use.
