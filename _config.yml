@@ -28,7 +28,7 @@ baseurl: /Shopify-DE-Intern-Submission-Final
 github_username:  shuaichen
 
 # Build settings
-theme: minima
+theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
 
